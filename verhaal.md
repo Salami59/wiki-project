@@ -1,2 +1,3 @@
 verhaal
-The Flash gaat om een jonge man genaamd Barry Allen die toen hij klein was iets ongeloofwaardig mee maakte tot hij op een dag zelf het ongeloofwaardige werd.
+
+De serie The Flash van The CW gaat over Barry Allen, een CSI onderzoeker die na een ongeluk met dark matter super snelheid krijgt. Hij gebruikt zijn krachten om misdaad te bestrijden, tijdreizen te ontdekken en de wereld te beschermen tegen andere metahumans.
